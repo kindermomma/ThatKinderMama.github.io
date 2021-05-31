@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: 
 ---
-
+<center>
 Amanda
 <br>
 Kindergarten teacher 🍎
@@ -13,7 +13,7 @@ Blogger and TPT author ✏️
 Mama 👶🏻👶🏻
 <br>
 Controlled chaos
-
+</center>
 
 
 
