@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: ThatKinderMama
+title: My Website
 
 # Your name to show in the footer
-author: Amanda S.
+author: Amanda S
 
 # --- List of links in the navigation bar --- #
 
@@ -40,9 +40,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "abowersox1993@gmail.com"
-#  facebook: deanattali
+  facebook: deanattali
 #  github: daattali
-#  twitter: daattali
+  twitter: daattali
 #  tiktok: "https://www.tiktok.com/@thatkindermama?lang=en"
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -82,7 +82,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ThatKinderMama.com"
+url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -92,6 +92,9 @@ feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
+
+# Add a search button to the navbar
+# post_search: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
